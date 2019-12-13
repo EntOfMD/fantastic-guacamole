@@ -27,8 +27,5 @@ if [ -d "$HOME/.local/bin" ] ; then
 fi
 
 
-# set PATH to include Golang
-export PATH="$PATH:/usr/local/go/bin"
-
 
 
